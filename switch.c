@@ -21,13 +21,13 @@ main()
 		case 3:
 			printf("Food item-Veg puffs\nPrice-Rs 69");
 			break;
-        case 4:
-        	printf("Food item-French fries\nPrice-Rs 199");
-        	break;
-        case 5:
-        	printf("Food item-Sandwich\nPrice-Rs 149");
-        	break;
-        default:
-        	printf("Please enter the right choice");
+        	case 4:
+        		printf("Food item-French fries\nPrice-Rs 199");
+        		break;
+        	case 5:
+        		printf("Food item-Sandwich\nPrice-Rs 149");
+       			break;
+        	default:
+        		printf("Please enter the right choice");
 	}
 }
